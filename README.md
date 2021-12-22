@@ -1,77 +1,116 @@
-<div align="center">
-<img 
-src="https://s10.gifyu.com/images/87644b9756a75c15a840372f61531b14.png" alt="img" width="220" height="30"/>
-</p>
-        <img 
-src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14815980.gif" alt="GIF" width="220" height="190"/>
-</p>
+</a></p>
+<div align="center"><img src="https://profile-counter.glitch.me/MhmdMukarram/count.svg" /><br>Profile Viewers</div>
 
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+RED-ALPHA+WHATSAPP+BOT."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+<div align="center">
+  <p align="center">
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=RED-ALPHA+BOT+WAS+DEVELOPED+BY+MHMD+MUKARRAM."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+<div align="center">
+  <p align="center">   
+    ## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=RED-ALPHA+BOT+WAS+FORK+FROM+ZARAMWOL."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+<div align="center">
+  <p align="center"> 
+
+    
+# RED-ALPHA-BOT
+
+<div align="center">
+  <img border-radius: 15px src="https://tenor.com/view/whenyouseeyourenemy-wolves-blue-red-gif-19635524.gif" width="500" height="600"/>
+   <p align="center">
+<a href="#"><img title= redalpha src="https://img.shields.io/badge/RED-ALPHA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/MhmdMukarram"><img title="Author" src="https://img.shields.io/badge/Author-mhmdmukarram/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+</p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/Raashii">Raashii</a>
+Project created by <a href="https://github.com/MhmdMukarram">RED-ALPHA</a> to make it public
     <br>
        | © |
-        Reserved 
+        Reserved |
     <br> 
 </p>
 
-- - -
+----
 
-<div align="center">
-
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=15&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
+  <p align="center">
+  <a href="https://github.com/farhan-dqz">
+    <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">ls
 <p align="center">
-
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol-Qr)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3G36is6)
-    
-- - -
+<a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
-</div>
-<div align="center">
-<a href="https://zaramwol.yolasite.com/">   𒊹︎︎︎𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐕𝐈𝐒𝐈𝐓 𝐎𝐔𝐑 𝐖𝐄𝐁𝐒𝐈𝐓𝐄</a>
+
+## 📢 Guide
+Click WA logo to Join Support Group 👇
     <br>
-</p>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j)
+  <div align="center">
+       
+
+  </div
+    
+## Setup
 <div align="center">
-<details>
-    <summary><b>𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐊𝐍𝐎𝐖 𝐌𝐎𝐑𝐄 𝐓𝐇𝐈𝐍𝐆𝐒</b></summary>
 
-</p>
+  ### Simple Method
+  
+> scan  QR Code ✏
+<div align="left"><a href="https://replit.com/@Amalser/Amalser"><img src="https://i.ibb.co/5L3L19w/IMG-20211205-075024.jpg" width="150" ></a></div>
 
-```
-If Repl.it not working Try Termux for Qr scanning.
-    Just Copy the Link Below in Termux
+> Deploy Your Bot On Heroku ✏
 
-     bash <(curl -L https://t.ly/tHxh)
-```
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
+<div align="left"><a href="http://heroku.com/deploy?template=https://github.com/MhmdMukarram1/RED_ALPHA"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="150" ></a></div>
+       
+      
+<br>
+<br >
 
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
-
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
 
 ### ⚠️ Warning! 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න,
+தயவு செய்து மேலே உள்ள whatsapp Logoவை click செய்து bot support group இல் join செய்து கொள்ளுங்கள்
+CREATED BY MHMD MUKARRAM
 ```
-  
-## Developers
+
+## ZARAMWOL BOT CREATER
   <div align="center">
     
-  [![Raashii](https://github.com/Raashii.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![RAASHII](https://avatars.githubusercontent.com/u/93727572?v=4.jpg?size=100)](https://avatars.githubusercontent.com/u/93727572?v=4.jpg) |  [JOKERSER](https://github.com/Jokerser-x-Raashii)
 ----|----|----
-[Raashii](https://github.com/Raashii)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[RAASHII](https://github.com/Jokerser-x-Raashii)  
+
   </div>
+    
 
 
 ## License
