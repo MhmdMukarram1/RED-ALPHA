@@ -88,7 +88,7 @@ Click WA logo to Join Support Group 👇
 
 > Deploy Your Bot On Heroku ✏
 
-<div align="left"><a href="http://heroku.com/deploy?template=https://github.com/MhmdMukarram1/RED_ALPHA"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="150" ></a></div>
+<div align="left"><a href="http://heroku.com/deploy?template=https://github.com/MhmdMukarram1/RED-ALPHA"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="150" ></a></div>
        
       
 <br>
@@ -105,7 +105,7 @@ CREATED BY MHMD MUKARRAM
 ## ZARAMWOL BOT CREATER
   <div align="center">
     
-  [![RAASHII](https://avatars.githubusercontent.com/u/93727572?v=4.jpg?size=100)](https://avatars.githubusercontent.com/u/93727572?v=4.jpg) |  [JOKERSER](https://github.com/Jokerser-x-Raashii)
+  [![RAASHII](https://avatars.githubusercontent.com/u/88715984?v=4.jpg?size=100)](https://avatars.githubusercontent.com/u/88715984?v=4.jpg) |  [JOKERSER](https://github.com/Jokerser-x-Raashii)
 ----|----|----
 [RAASHII](https://github.com/Jokerser-x-Raashii)  
 
