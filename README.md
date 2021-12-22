@@ -84,7 +84,7 @@ Click WA logo to Join Support Group 👇
   ### Simple Method
   
 > scan  QR Code ✏
-<div align="left"><a href="https://replit.com/@Amalser/Amalser"><img src="https://i.ibb.co/5L3L19w/IMG-20211205-075024.jpg" width="150" ></a></div>
+<div align="left"><a href="https://replit.com/@mhmdmukarram/RedAlpha-QR?v=1"><img src="https://i.ibb.co/5L3L19w/IMG-20211205-075024.jpg" width="150" ></a></div>
 
 > Deploy Your Bot On Heroku ✏
 
